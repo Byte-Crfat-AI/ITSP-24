@@ -1,3 +1,11 @@
+#Project Setup
+After activating git in your folder and importing the code in it, make sure you activate a virtual env by the name of 'vienv' and then install any libraries as needed. 
+Before beginning do 'pip install -r requirements.txt' , that will download all the necessary libraries with thier versions.
+Also if you install a new one , make sure you install after activating venv and at end do 'pip freeze > requirements.txt'
+
+!!Warning: Please Push the commits with cautions, check if all the features work and none of the other code is disturbed by the changes before pushing.
+
+
 # ITSP-24
 Our project involves a lot of learning and requires consistent work everyday.. Learn and do at your own pace.. We will assign small tasks once in 2 days for everyone.. and check whether the task is been done and if faces any issue tag the mentor and ask the doubts
 Subtasks:
